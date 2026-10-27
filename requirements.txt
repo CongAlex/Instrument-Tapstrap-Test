@@ -1,0 +1,5 @@
+# Tap's official BLE SDK (pulls in bleak). Installed from GitHub so the version
+# matches what this code was written against (tap-python-sdk 1.0.0).
+tap-python-sdk @ git+https://github.com/TapWithUs/tap-python-sdk.git
+matplotlib>=3.7
+pytest>=7  # tests only
